@@ -4,9 +4,9 @@ import streamlit as st
 
 
 USUARIOS = {
-    "sandro": "123456",
-    "admin": "admin123",
-    "jheniffer": "jheni123"
+    "Sandro": "San123",
+    "Admin": "Admin123",
+    "Jheniffer": "Jheni123"
 }
 
 
